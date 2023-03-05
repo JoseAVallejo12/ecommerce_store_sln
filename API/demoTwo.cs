@@ -1,0 +1,15 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace API
+{
+  public class DemoTwo
+  {
+    public static string Foo2()
+    {
+      return "Hello from DemoTwo";
+    }
+  }
+}
